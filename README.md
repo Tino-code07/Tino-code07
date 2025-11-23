@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tino-code07
-- 👀 I’m interested in statistical ecology.
+- 👀 I’m interested in wildlife conservation
 - 🌱 I’m currently learning population models and spatial distribution models.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
